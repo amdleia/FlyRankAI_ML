@@ -1,6 +1,6 @@
 # Capstone Report — Refresh / Content Opportunity Scoring
 
-- **Author:** Amanda Padua
+- **Author:** Amanda Leigh Padua
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** flyrank-ml-internship-starter
 - **Date:** September 7, 2026
